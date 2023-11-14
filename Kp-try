@@ -1,3 +1,5 @@
+#LO HACE EN 210 segundos APROX
+
 from GUI import GUI
 from HAL import HAL
 import cv2
